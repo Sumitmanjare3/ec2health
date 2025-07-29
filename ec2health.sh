@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set output file path
-output_file="/home/ubuntu/sumit.txt"
+output_file="./sumit.txt"
 
 # Write health check details to the file
 {
